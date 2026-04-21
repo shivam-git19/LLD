@@ -10,3 +10,4 @@ public class Invoice{
         this.total = this.marker.price * this.quantity;
     }
 }
+
