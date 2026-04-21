@@ -1,4 +1,4 @@
-package Principles.OpenClosedPrinciple;
+package Principles.openClosedPrinciple;
 
 public class Demo {
     public static void main(String[] args){
