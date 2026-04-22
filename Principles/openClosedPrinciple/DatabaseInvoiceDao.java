@@ -1,6 +1,6 @@
-package Principles.OpenClosedPrinciple;
+package Principles.openClosedPrinciple;
 
-import Principles.SingleResponsibilitiesPrinciple.Invoice;
+import Principles.singleResponsibilitiesPrinciple.Invoice;
 
 public class DatabaseInvoiceDao implements InvoiceDao{
     private Invoice invoice;
